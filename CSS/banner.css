@@ -1,0 +1,20 @@
+.banner{
+	width: 700px;
+	height: 300px
+
+	
+	background-size: 100% 100%;
+
+	animation: banner 10s infinite;
+}
+	@keyframes banner {
+		 0%, 30% {
+		 	background-image: url(images/f05a290a71aef1de3ffaf46636ecc10e.jpg);
+		 }
+		 35%, 65%{
+		 	background-image: url(images/e0629d4e6bac58987e105b3cf7c5f35d.jpg);
+		 }
+		 70%, 100%{
+		 	background-image: url(images/893ee4ab95dcbede01c1fcb543a4068a--tumblr-backgrounds-wallpapers-desktop-wallpapers.jpg);
+		 }
+	} 
