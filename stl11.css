@@ -1,11 +1,6 @@
-.navxd{
-    background-color: white;
-    font-size: 30px;
-    float:right;
-    font-family:Urgot;
-    position: relative;
-    top: -30px;
-}
+@import url('https://fonts.googleapis.com/css?family=Popins:300,400,600,700');
+
+
 @font-face{
     font-family:Talon;
     src: url(file:///C:/Users/k_dav/Desktop/Gb/fonts/BillionDreams_PERSONAL.ttf);
